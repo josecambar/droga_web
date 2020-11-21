@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "69238e8c6ff73ea667f0496b420777b1d441a2b1d9be86950708e375a5a0a298"
+            "sha256": "6cac29ac4c531ce33fdf4f9ab20674b7aaaacb17879209cbcb49e4fa085c232d"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -30,6 +30,13 @@
             ],
             "markers": "python_version >= '3.5'",
             "version": "==3.3.1"
+        },
+        "cymysql": {
+            "hashes": [
+                "sha256:7f5d1285f5434421aed25ff4159151a649d165645d07cbed4ca26927022a13b7"
+            ],
+            "index": "pypi",
+            "version": "==0.9.15"
         },
         "distlib": {
             "hashes": [

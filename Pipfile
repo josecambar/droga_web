@@ -8,6 +8,7 @@ virtualenv = "*"
 gunicorn = "*"
 django = "*"
 django-heroku = "*"
+cymysql = "*"
 
 [dev-packages]
 
